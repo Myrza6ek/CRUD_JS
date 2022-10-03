@@ -1,0 +1,15 @@
+.main-modal {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.491);
+  display: none;
+}
+.inp-modal {
+  width: 320px;
+  height: 250px;
+  background-color: rgb(250, 235, 215);
+  margin: 100px auto;
+}
